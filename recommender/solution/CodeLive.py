@@ -25,7 +25,7 @@ for v in rs:
 
 book.sort()
 
-print(book)
+# print(book)
 
 print(dict)
 
